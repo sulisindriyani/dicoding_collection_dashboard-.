@@ -57,7 +57,7 @@ def create_rfm_df(df):
     
     return rfm_df
 
-all_df = pd.read_csv("C:/dashboard/all_data (1).csv")
+all_df = pd.read_csv("all_data (1).csv")
 datetime_columns = ["order_date", "delivery_date"]
 all_df.sort_values(by="order_date", inplace=True)
 all_df.reset_index(inplace=True)
