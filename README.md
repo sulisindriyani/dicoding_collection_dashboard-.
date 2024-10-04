@@ -1,5 +1,4 @@
-# dicoding_collection_dashboard-.
-
+# Dicoding-collection-dashboard
 Membuat tampipilan dashboard sederhana menggunakan Streamlite<br>
 Sebelum melakukan pengembangan dashboard, perlu melawati proses analysis data yang meliputi:<br>
 - Data wrangling<br>
