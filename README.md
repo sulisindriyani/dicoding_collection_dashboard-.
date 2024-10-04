@@ -22,6 +22,7 @@ Saat melakukan data wrangling diperlukan virtual environment, yang di buat denga
 
 
 #  Contoh Tampilan Dashboar
-![image](https://github.com/user-attachments/assets/592697fd-dedc-4a40-9e60-8182eb843f75)
-![image](https://github.com/user-attachments/assets/5ac297cc-7f4c-418e-9c4d-258885622b1c)
-![image](https://github.com/user-attachments/assets/a7602d2c-6f3e-4272-babf-3b6af7193a7e)
+![image](https://github.com/user-attachments/assets/e1391105-faed-4929-b9e0-1902e082f3b9)
+![image](https://github.com/user-attachments/assets/16572f84-cc5f-4ffa-9fa8-fc5b5aebf29f)
+![image](https://github.com/user-attachments/assets/426e941a-1331-443e-a08b-b6cfcf7d233c)
+
